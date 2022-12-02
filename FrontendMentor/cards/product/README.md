@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [GitHub Link](https://matrixme00.github.io./FrontendMentor/cards/product/)
+- Live Site URL: [GitHub Link](https://matrixme00.github.io/FrontendMentor/cards/product/)
 
 ## My process
 
