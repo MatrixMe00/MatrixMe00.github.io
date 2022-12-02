@@ -49,5 +49,3 @@ learned to create a simple flexbox card without the help of any css library
 
 - Frontend Mentor - [@MatrixMe00](https://www.frontendmentor.io/profile/matrixme00)
 - Twitter - [@MatrixMe2](https://www.twitter.com/matrixme2)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
